@@ -29,14 +29,14 @@
 #define JSON_CONFIG_FILE "/test_config.json"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDXu4VCbK17np26n8uVhHl8NHuhXp5IReQ"
+#define API_KEY ""
 
 // Insert Authorized Username and Corresponding Password
 #define USER_EMAIL "test@gmail.com"
 #define USER_PASSWORD "qwert54321"
 
 // Insert RTDB URLefine the RTDB URL
-#define DATABASE_URL "https://esp32-32977-default-rtdb.europe-west1.firebasedatabase.app/"
+#define DATABASE_URL ""
 
 
 
